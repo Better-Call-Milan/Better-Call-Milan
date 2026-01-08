@@ -19,7 +19,11 @@ Alguns projetos autorais e em um site pessoal.
 O uso de APIs e como estruturar sistemas mais limpos e bem pensados.
 
 
+
 ---
+
+
+
 <p align="left">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
@@ -34,7 +38,6 @@ O uso de APIs e como estruturar sistemas mais limpos e bem pensados.
 
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" />
 
   <!-- Sistema -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" />

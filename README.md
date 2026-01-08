@@ -1,16 +1,19 @@
-## Hi there 👋
+## Saudações 👋
 
-<!--
-**Better-Call-Milan/Better-Call-Milan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Gustavo, estudante de Engenharia da Computação e entusiasta de Segurança da Informação.
+Gosto de criar coisas que realmente funcionam, mas também gosto de dar significado, estética e conceito às coisas que crio.
 
-Here are some ideas to get you started:
+Meu principal conjunto de tecnologias envolve Kotlin (Jetpack Compose), HTML, CSS, JavaScript, PHP e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A maioria dos meus projetos aqui tem o foco em:
+- sistemas web  
+- aplicativos mobile
+- mods de jogos
+- customizações pesadas do Linux
+- ferramentas de uso pessoal
+
+### Atualmente estou trabalhando em:
+Alguns projetos autorais e em um site pessoal.
+
+### Atualmente estou aprendendo mais sobre:
+O uso de APIs e como estruturar sistemas mais limpos e bem pensados.
